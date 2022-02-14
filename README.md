@@ -183,7 +183,7 @@
 
 ## Just a snake eating my contributions 🐍
 <p align='center'>
-<img src="https://github.com/kanishak11-cyber/kanishak11-cyber/raw/output/github-contribution-grid-snake.svg">
+<img src="./download.svg">
 </p>
 
 <hr>
