@@ -193,7 +193,7 @@
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kanishak_chaurasia&theme=github_dark">
-  ![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2028%20mins-blue)
+ 
 </p>
 
 <hr>
@@ -225,6 +225,10 @@
 
 <h2 align='center'>Thank You!!!!!</h2>
 <br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
 
 ------
 Credit : [kanishak11-cyber](https://github.com/kanishak11-cyber)
