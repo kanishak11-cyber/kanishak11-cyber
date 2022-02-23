@@ -10,6 +10,9 @@
 <hr>
 <br>
 <p align='center'>
+<a href="https://app.daily.dev/kanishak"><img src="https://api.daily.dev/devcards/334f7905c2d643abb8b23d3ac4aec2d0.png?r=l1c" width="400" alt="KANISHAK CHAURASIA's Dev Card"/></a></p>
+<br>
+<p align='center'>
 <img src="https://komarev.com/ghpvc/?username=kanishak11-cyber">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://img.shields.io/github/followers/kanishak11-cyber?style=social'>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
