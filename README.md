@@ -5,12 +5,13 @@
 <p align='center'>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&vCenter=true&lines=I'm+Kanishak+Chaurasia;CSE+AI+Student;Cooking+Projects;%40kanishak11-cyber" align='center'>
   </p>
- <p align='center'>
+  <div>
+ <p align='left'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
-<br>
-<p align='center'>
-<a href="https://app.daily.dev/kanishak"><img src="https://api.daily.dev/devcards/334f7905c2d643abb8b23d3ac4aec2d0.png?r=l1c" width="400" alt="KANISHAK CHAURASIA's Dev Card"/></a></p>
+
+<p align='right'>
+<a href="https://app.daily.dev/kanishak"><img src="https://api.daily.dev/devcards/334f7905c2d643abb8b23d3ac4aec2d0.png?r=l1c" width="300" alt="KANISHAK CHAURASIA's Dev Card"/></a></p>
 <br>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=kanishak11-cyber">&nbsp;&nbsp;&nbsp;&nbsp;
