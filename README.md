@@ -196,7 +196,8 @@
 ## Waka Time Stats 🕰
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kanishak_chaurasia&theme=github_dark">
+<img src="https://wakatime.com/share/@Kanishak_Chaurasia/bc40cd88-d585-4527-88e1-06e946d9d0e4.svg" width='500'>
+<!--   <figure><embed src="https://wakatime.com/share/@Kanishak_Chaurasia/77b7274c-6663-4d2b-9103-be5952b0d2f1.svg"></embed></figure> -->
  
 </p>
 
