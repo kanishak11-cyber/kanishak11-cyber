@@ -24,8 +24,10 @@
 
 ## Github Contribution Streak 🔥 
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kanishak11-cyber&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align='center'>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=kanishak11-cyber&theme=dark&hide_border=true' />
 
+</p>
 
 ## Github Stats &nbsp;📊
 
