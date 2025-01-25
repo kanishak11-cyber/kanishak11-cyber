@@ -61,7 +61,7 @@ I'm passionate about sharing my knowledge and experiences with others. Here are 
 ### Connect with Me
 I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out to me:
 
-- **Email:** kanishak.chaurasia@example.com  
+- **Email:** kanishakchaurasia2@gmail.com
 - **LinkedIn:** [Kanishak Chaurasia](https://www.linkedin.com/in/dappdost)  
 - **Twitter:** [@dappdost](https://twitter.com/dappdost)  
 
