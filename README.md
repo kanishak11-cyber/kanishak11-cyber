@@ -1,75 +1,274 @@
-# Hi, I'm Kanishak Chaurasia 👋
+# 👋 Hi there, I'm Kanishak Chaurasia
 
-![Hello GIF](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Founder+%26+CEO+at+Fluxor.io;Blockchain+%26+AI+Innovator;Web3+Full-Stack+Developer;Building+the+Decentralized+Future" alt="Typing SVG" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kanishak11-cyber&color=blue)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanishak11-cyber&color=0891b2&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/kanishak11-cyber?color=0891b2&style=for-the-badge&label=Followers" />
+  <img src="https://img.shields.io/github/stars/kanishak11-cyber?color=0891b2&style=for-the-badge&label=Stars" />
+</div>
 
-## Founder & CEO at Polycrypt HQ
+## 🚀 About Me
 
-### About Me
-Welcome to my GitHub profile! I'm the Founder and CEO of [Polycrypt HQ], where we are dedicated to building innovative blockchain solutions and driving the adoption of decentralized technologies. With a passion for innovation and technology, I lead our team in developing cutting-edge solutions that empower industries and make a positive impact on the world.
+```javascript
+const kanishak = {
+    currentRole: "Founder & CEO at Fluxor.io",
+    previousRole: "X-Polycrypt HQ",
+    code: ["JavaScript", "TypeScript", "Solidity", "Go", "Rust", "Python"],
+    technologies: {
+        blockchain: ["Ethereum", "Polygon", "Solana", "Hyperledger"],
+        frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "FastAPI", "GraphQL"],
+        cloud: ["AWS", "Azure", "Docker", "Kubernetes"],
+        ai: ["TensorFlow", "PyTorch", "OpenAI", "LangChain"]
+    },
+    architecture: ["Microservices", "Event-Driven", "Serverless", "DeFi"],
+    currentFocus: "Building AI-powered Web3 infrastructure at Fluxor.io",
+    funFact: "Mentored 200+ blockchain projects that won hackathons worldwide"
+};
+```
 
-### Professional Experience
-- **Founder & CEO, Polycrypt HQ**
-  - *Dates of Employment:* 2024 - Present
-  - *Responsibilities:* Leading a talented team, setting strategic direction, overseeing product development, and ensuring operational excellence.
-  - *Achievements:* Delivered impactful blockchain solutions, secured partnerships, and led successful product launches.
+<div align="center">
 
-- **Blockchain Developer Trainee**
-  - *Dates of Employment:* 2023 - Present
-  - *Responsibilities:* Developing smart contracts, creating blockchain-based applications, and exploring decentralized architectures.
-  - *Achievements:* Mentored over 200 projects, with several winning hackathons, and contributed to various projects such as OpSec Computers, AiegisAI, and Epsillion Intelligence.
+### 🏢 Professional Journey
 
-- **Web3 Full-Stack Developer**
-  - *Experience:* Building dApps and web applications using technologies like Next.js, Solidity, and Go. Contributed to projects like Hackingly and Codeate.
+</div>
 
-### Skills
-- **Leadership & Management:** Strategic Planning, Team Leadership, Project Management  
-- **Technical Expertise:** Web3, TypeScript, Next.js, Solidity, Go, Python, TailwindCSS, Node.js, Docker, Azure  
-- **Business Acumen:** Business Strategy, Marketing, Financial Planning  
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
+**🔥 Fluxor.io**  
+*Founder & CEO* | 2025 - Present
+- Building next-gen Web3 & AI infrastructure
+- Leading global collaboration initiatives
+- Driving industry adoption at scale
+
+</td>
+<td align="center" width="50%">
+
+**⚡ X-Polycrypt HQ**  
+*Founder & CEO* | 2024 - 2025
+- Integrated AI with blockchain systems
+- Secured international partnerships
+- Foundation for Fluxor.io ecosystem
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,solidity,go,rust,python,react,nextjs,vue,nodejs" />
 </p>
 
-### Projects & Initiatives
-Here are some of the key projects and initiatives I've led:
+### Blockchain & Web3
+<p>
+  <img src="https://skillicons.dev/icons?i=ethereum" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=solana&logoColor=9945FF" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+</p>
 
-1. **[Hackingly](https://hackingly.in)**
-   - *Description:* A hackathon and bootcamp hosting platform built from scratch.
-   - *Impact:* Enabled seamless hackathon experiences and connected students with opportunities.
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,grafana" />
+</p>
 
-2. **Codeate**
-   - *Description:* A collaborative platform for developers to share and refine ideas.
-   - *Impact:* Enhanced developer productivity and knowledge sharing.
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,postgres,redis" />
+</p>
 
-3. **LazyChain**
-   - *Description:* An AI-driven Layer 0 blockchain built to simplify development and enhance interoperability.
-   - *Impact:* Pioneered a new approach to building blockchains, empowering industries with efficient solutions.
+</div>
 
-### Publications & Talks
-I'm passionate about sharing my knowledge and experiences with others. Here are some of my recent contributions:
+## 🏆 Featured Projects
 
-- [Web3 Development Essentials](https://example.com)
-- [Innovating with Blockchain & AI](https://example.com)
-- [Scaling Decentralized Applications](https://example.com)
+<div align="center">
 
-### Connect with Me
-I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out to me:
+<table>
+<tr>
+<td width="50%">
 
-- **Email:** kanishakchaurasia2@gmail.com
-- **LinkedIn:** [Kanishak Chaurasia](https://www.linkedin.com/in/dappdost)  
-- **Twitter:** [@dappdost](https://twitter.com/dappdost)  
+### 🏗️ [Hackingly](https://hackingly.in)
+**Hackathon & Bootcamp Platform**
 
-### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishak11-cyber&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishak11-cyber&layout=compact&theme=radical)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### Activity Graph
-[![kanishak11-cyber's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanishak11-cyber&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🎯 Empowered **10,000+** students globally
+- 🚀 Hosted **500+** hackathons & bootcamps  
+- 💡 Built from scratch with modern tech stack
 
-Thank you for visiting my profile! Let's innovate and create something amazing together.  
+</td>
+<td width="50%">
+
+### ⚡ LazyChain
+**AI-Powered Layer 0 Blockchain**
+
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-FF6B6B?style=flat-square&logo=brain&logoColor=white)
+
+- 🤖 Cross-chain interoperability powered by AI
+- 📈 Redefined blockchain accessibility
+- 🌍 Industry-wide impact across sectors
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤝 Codeate
+**Collaborative Development Platform**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+- 💻 Idea sharing & co-creation platform
+- 🔄 Boosted developer productivity
+- 🌐 Bridges Web2 and Web3 ecosystems
+
+</td>
+<td width="50%">
+
+### 🧪 Fluxor.io Labs
+**AI-Web3 R&D Hub** *(Ongoing)*
+
+![AI](https://img.shields.io/badge/-AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain&logoColor=white)
+![Research](https://img.shields.io/badge/-Research-4CAF50?style=flat-square&logo=academia&logoColor=white)
+
+- 🔬 Next-gen AI-integrated infrastructure
+- 🌟 Cutting-edge Web3 solutions
+- 🎯 Real-world adoption focus
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishak11-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishak11-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kanishak11-cyber&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishak11-cyber&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true" />
+</div>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kanishak11-cyber&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+## 🎯 Current Goals for 2025
+
+<div align="center">
+
+```mermaid
+gantt
+    title 2025 Roadmap
+    dateFormat  YYYY-MM-DD
+    section Fluxor.io
+    Platform Launch      :active, platform, 2025-01-01, 2025-06-30
+    Global Expansion     :expansion, after platform, 2025-12-31
+    section Innovation
+    AI Integration       :ai, 2025-02-01, 2025-08-31
+    New Partnerships     :partnerships, 2025-03-01, 2025-10-31
+    section Community
+    Developer Program    :dev, 2025-01-15, 2025-11-30
+    Educational Content  :education, 2025-02-01, 2025-12-31
+```
+
+</div>
+
+- 🚀 **Scale Fluxor.io** to serve 1M+ developers worldwide
+- 🤖 **Launch AI-powered blockchain tools** for enterprise adoption
+- 🌍 **Establish global partnerships** with Fortune 500 companies
+- 📚 **Mentor 1000+ projects** in blockchain and AI
+- 🎓 **Publish research papers** on Web3 and AI integration
+
+## 🌟 Community Impact
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Students_Mentored-10,000+-FF6B6B?style=for-the-badge&logo=academic-cap" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Projects_Launched-200+-00D9FF?style=for-the-badge&logo=rocket" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Hackathon_Wins-500+-4CAF50?style=for-the-badge&logo=trophy" />
+</td>
+</tr>
+</table>
+</div>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 [The Future of AI-Powered Blockchain Infrastructure](https://example.com)
+- ⚡ [Building Scalable DApps: Lessons from 200+ Projects](https://example.com)
+- 🚀 [Web3 Leadership: Navigating the Decentralized Future](https://example.com)
+- 💡 [Cross-Chain Interoperability: The Next Frontier](https://example.com)
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💌 Ready to build the future together?
+
+<p>
+<a href="mailto:kanishakchaurasia2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dappdost">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/dappdost">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://hackingly.in">
+  <img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=web&logoColor=white" />
+</a>
+</p>
+
+### 🚀 Open for:
+- 💼 **Strategic Partnerships** in Web3 & AI
+- 🤝 **Collaboration** on innovative blockchain projects  
+- 🎤 **Speaking Engagements** at tech conferences
+- 💡 **Mentorship** for aspiring blockchain developers
+- 🌟 **Investment Opportunities** in decentralized technologies
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting+my+profile!;Let's+innovate+and+build+together+%F0%9F%9A%80;The+future+is+decentralized+%F0%9F%8C%9F" />
+
+**⭐ Star my repositories if you find them helpful!**
+
+</div>
