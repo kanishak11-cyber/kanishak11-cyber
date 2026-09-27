@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://kudoskanishak.dev">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0c0c0b&height=170&text=KANISHAK%20CHAURASIA&fontSize=50&fontColor=ecebe6&fontAlignY=40&desc=FOUNDER%20OF%20FLUXOR%20%C2%B7%20DEVREL%20FOR%20AI%20%26%20WEB3&descSize=15&descAlignY=66&animation=fadeIn" width="100%" alt="Kanishak Chaurasia · Founder of FLUXOR · DevRel for AI and Web3" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0c0c0b&section=header&reversal=true&text=KANISHAK+CHAURASIA&textBg=false&fontColor=ecebe6&fontSize=50&fontAlign=40&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=15&descAlign=50&descAlignY=66" width="100%" alt="Kanishak Chaurasia · Founder of FLUXOR · DevRel for AI and Web3" />
 </a>
 
 <a href="https://kudoskanishak.dev">
